@@ -1,14 +1,26 @@
-layout_spectrum: 0.539629
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8555881
 color:
   saturation: 0.9902614
-  lightness: 0.4880837
   brandStrength: 0.9441901
+  rhythmicContrast: 0.7430807
   brandColors:
     - '#B5ABA3'
     - '#6F3716'
     - '#B49238'
     - '#4A4D6D'
     - '#A53A77'
-  rhythmicContrast: 0.7430807
+  lightness: 0.4880837
+layout_spectrum: 0.737774
 name: Freemily
