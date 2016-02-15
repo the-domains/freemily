@@ -1,0 +1,14 @@
+layout_spectrum: 0.539629
+typography_spectrum: 0.8555881
+color:
+  saturation: 0.9902614
+  lightness: 0.4880837
+  brandStrength: 0.9441901
+  brandColors:
+    - '#B5ABA3'
+    - '#6F3716'
+    - '#B49238'
+    - '#4A4D6D'
+    - '#A53A77'
+  rhythmicContrast: 0.7430807
+name: Freemily
