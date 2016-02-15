@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Freemily]]></title>
+        <description><![CDATA[Freemily]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 20:50:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One nice family day]]></title>
+            <description><![CDATA[<article><h1>One nice family day</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a9ac841cd365518456f3339668b40ddadfb22b3.png"></article>]]></description>
+            <link>undefinedone-nice-family-day/index.html</link>
+            <guid isPermaLink="false">d64a3305-5dcd-4831-94c3-79b06c4cb74f</guid>
+            <pubDate>Mon, 15 Feb 2016 20:50:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
